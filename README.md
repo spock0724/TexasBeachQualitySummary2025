@@ -10,7 +10,7 @@ Annual reports of water quality data collected by the Texas General Land Office 
 The Texas General Land Office reports, "The most recent report submitted contained the 2023, 2024 and 2025 data. The 2026 data will be reported to EPA in January 2027."
 
 Access to the raw data used provided from the EPA found by using the Beach Advisory and Closing Online Notification (BEACON) system.
-Link: https://beacon.epa.gov
+Link: https://coast.noaa.gov/digitalcoast/tools/beacon.html
 
 Weekly sample reporting data is provided by the Texas General Land Office site Texas Beach Watch.
 Link: https://www.texasbeachwatch.com
