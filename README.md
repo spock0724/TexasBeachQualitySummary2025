@@ -1,5 +1,5 @@
 # TexasBeachQualitySummary2025
-A summarization and visual analysis of reported water quality and advisories of Texas beaches.
+A summarization and visual analysis of reported water quality and advisories of Texas beaches from 2023-2025
 ------------------------------------------------------------------------------------------------------------
 
 This project analyzes Texas coastal water quality and the identification of bacterial contamination hotspots. In this dashboard, contamination hotspots are defined as locations with consistently elevated concentrations of bacterial pollutants. The analysis explores potential contributing factors, including urban population density, wastewater infrastructure, and surrounding land use.
