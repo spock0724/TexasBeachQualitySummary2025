@@ -1,4 +1,4 @@
-# TexasBeachQualitySummary2025
+# Texas Beach Quality Summary 2025
 A summarization and visual analysis of reported water quality and advisories of Texas beaches from 2023-2025
 ------------------------------------------------------------------------------------------------------------
 
