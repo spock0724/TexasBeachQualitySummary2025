@@ -9,6 +9,10 @@ The EPA classifies public beaches into one of four monitoring tiers. Tier 1 incl
 Data:
 Annual reports of water quality data collected by the Texas General Land Office are sent to U.S. Environmental Protection Agency (EPA) for the previous year(s).
 The Texas General Land Office reports, "The most recent report submitted contained the 2023, 2024 and 2025 data. The 2026 data will be reported to EPA in January 2027."
+EPA recreational water quality criteria uses 104 cfu/100mL as the single-sample Enterococcus threshold for marine recreational waters.
+
+The EPA BEACON monitoring dataset did not contain geographic coordinates. Station coordinates were collected from the EPA BEACON map interface and stored in a 
+separate location lookup table 'Beach_Locations.csv'
 
 Access to the raw data used provided from the EPA found by using the Beach Advisory and Closing Online Notification (BEACON) system.
 Link: https://coast.noaa.gov/digitalcoast/tools/beacon.html
